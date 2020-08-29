@@ -1,5 +1,3 @@
-
-
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -40,7 +38,6 @@ public class Games {
 						break;
 					default:
 						System.out.println("It is player1's turn \r\n");
-
 				}
 			}
 			String coordinate = s.nextLine();
