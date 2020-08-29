@@ -48,8 +48,6 @@ public class Games {
 			else {
 				throw new IOException("Incorrect inputs");
 			}
-			
-			//System.out.println("\r\n");
 			System.out.println("   _ _ _ _ _ _ _ _ _");
 			System.out.println("  |     |     |     |");
 			System.out.println("3 |  " + coords.get("A3") + "  |  " + coords.get("B3") + "  |  " + coords.get("C3") + "  |");
